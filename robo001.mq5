@@ -15,6 +15,7 @@ int OnInit()
    EventSetTimer(60);
    
    Print("inicio");
+   Print("the books on the table");
 //---
    return(INIT_SUCCEEDED);
   }
